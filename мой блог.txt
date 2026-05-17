@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой блог</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        nav { background-color: #333; padding: 10px; }
+        nav a { color: white; margin: 0 10px; text-decoration: none; }
+        nav a:hover { text-decoration: underline; }
+        .post { margin-bottom: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="about_me.html">Обо мне</a>
+        <a href="achievements.html">Мои достижения</a>
+        <a href="blog.html">Мой блог</a>
+        <a href="contact.html">Обратная связь</a>
+    </nav>
+    <h1>Мой блог</h1>
+    
+    <div class="post">
+        <h2>Увлечение теологией</h2>
+        <p>Я уже несколько лет изучаю различные религии,в том числе авраамические(ислам,иудаизм,христианство и тд). </p>
+    </div>
+
+    <div class="post">
+        <h2>История о гитаре</h2>
+        <p>В детстве я начал учиться играть на гитаре, и это увлечение со мной до сих пор. Музыка помогает мне расслабиться и выразить свои чувства. Недавно я записал свой первый трек, и планирую продолжить развиваться в этой области, возможно, даже выступить на сцене!</p>
+    </div>
+
+    <div class="post">
+        <h2>Новое хобби — шахматы</h2>
+        <p>Недавно я заинтересовался шахматами и начал изучать основы. Я обожаю играть в шахматы и изучать дебюты. Шахматы позволяют мне улучшить навыки тактического и стратегического мышления.</p>
+    </div>
+
+    <a href="index.html">Назад на главную</a>
+</body>
+</html>
